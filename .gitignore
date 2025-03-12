@@ -1,4 +1,5 @@
 __pycache__/
 venv/
 *.pyc
-suumo_list
+suumo_list.csv
+output.txt
